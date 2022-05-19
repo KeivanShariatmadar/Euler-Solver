@@ -3,4 +3,4 @@ Euler Solver for numerical approximation of ordinary differential equations (ODE
 
 Insert both m files in one directory, use ODE m file for seting up the problem.
 - ODE1: Solver File
-- ODE: Main script where you can define the ODE and call ODE1 solver to yield the numerical approximation.
+- ODE: Main script where you can define the ODE and call ODE1 solver to find the numerical approximation.
